@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on Zappts Solutions LTDA.
-- 🌱 I’m currently learning about backend, more specifically Typescript, NodeJS and AWS Services.
+- 🔭 I’m currently working at Dataside.
+- 🌱 I’m currently the Head of Development.
 - 👯 I’m looking to collaborate on everything that I can.
